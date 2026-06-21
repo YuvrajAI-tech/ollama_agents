@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Ollama Agents
+Exec=python3 /usr/share/ollama_agents/main.py
+Icon=utilities-terminal
+Terminal=false
+Categories=Utility;Development;
